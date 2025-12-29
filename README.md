@@ -7,4 +7,4 @@
 3.未弹出安装脚本页面则手动打开脚本管理器导入脚本。  
 
 # 获取：  
-您可以通过GitHub释放获取我的脚本，也可以通过我的云盘获取:https://cloud.xyzckl.site/cloud/%E4%B8%AD%E7%A7%BB%E6%A0%A1%E5%9B%AD%E7%BD%91%E9%AA%8C%E8%AF%81%E7%A0%81%E8%AF%86%E5%88%AB%E8%84%9A%E6%9C%AC
+您可以通过GitHub释放获取我的脚本，也可以访问我的云盘https://cloud.xyzckl.site/cloud/中移校园网验证码识别脚本

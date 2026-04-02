@@ -12,7 +12,7 @@ CMCBA 主题系统文件规范 (V1)
 | metadata | Object | 包含主题的可视化描述信息。 |\
 | compatibility | String | 兼容的最低版本号（例如 10.1）。 |\
 | config | Object | 功能开关与逻辑配置。 |\
-| assets | Object | 核心代码资源（CSS/HTML/JS）。 |\
+| assets | Object | 核心代码资源（CSS/HTML/JS）。 |
 
 # 2. 详细字段说明
 
@@ -74,4 +74,4 @@ js:
 
 # 4. 示例文件
 
-你可以参考 example_theme.json 作为模板进行快速开发。
+你可以参考 [主题示例](./example_theme.json)n 作为模板进行快速开发。

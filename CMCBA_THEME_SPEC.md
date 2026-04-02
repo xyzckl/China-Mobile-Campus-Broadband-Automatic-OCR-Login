@@ -6,13 +6,13 @@ CMCBA 主题系统文件规范 (V1)
 
 主题文件必须是一个合法的 .json 文件，根对象包含以下一级字段：
 
-| 字段 | 类型 | 说明 |
-| signature | String | 固定为 CMCBA_THEME_V1，用于版本校验。 |
-| theme_id | String | 主题的唯一标识符，建议使用小写字母、数字和下划线。 |
-| metadata | Object | 包含主题的可视化描述信息。 |
-| compatibility | String | 兼容的最低版本号（例如 10.1）。 |
-| config | Object | 功能开关与逻辑配置。 |
-| assets | Object | 核心代码资源（CSS/HTML/JS）。 |
+| 字段 | 类型 | 说明 |\
+| signature | String | 固定为 CMCBA_THEME_V1，用于版本校验。 |\
+| theme_id | String | 主题的唯一标识符，建议使用小写字母、数字和下划线。 |\
+| metadata | Object | 包含主题的可视化描述信息。 |\
+| compatibility | String | 兼容的最低版本号（例如 10.1）。 |\
+| config | Object | 功能开关与逻辑配置。 |\
+| assets | Object | 核心代码资源（CSS/HTML/JS）。 |\
 
 2. 详细字段说明
 

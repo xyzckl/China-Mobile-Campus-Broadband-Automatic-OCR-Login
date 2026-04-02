@@ -4,3 +4,6 @@
 # 安装教程：推荐使用edge浏览器  
 1.浏览器安装脚本管理器，如油猴。  
 2.通过GitHub释放获取我的脚本，也可以访问我的网站下载门户https://cmcnauto.xyzckl.site
+
+# 高级主题设计规范：
+[查看主题规范](./CMCBA_THEME_SPEC.md)

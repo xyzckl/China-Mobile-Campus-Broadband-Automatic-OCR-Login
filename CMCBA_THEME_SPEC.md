@@ -74,4 +74,4 @@ js:
 
 # 4. 示例文件
 
-你可以参考 [主题示例](./example_theme.json)n 作为模板进行快速开发。
+你可以参考 [主题示例](./example_theme.json) 作为模板进行快速开发。

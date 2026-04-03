@@ -27,4 +27,4 @@
 MIT 许可证。
 
 ## 高级主题设计规范：
-[查看主题规范](./CMCBA_THEME_SPEC.md)
+[查看主题规范](./CMCBA_THEME_SPEC.md)！已废弃
